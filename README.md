@@ -60,13 +60,32 @@
 
 
 
-<div><p>My profile overview: </p></div>
+## <div><p>My profile overview: </p></div>
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
 <br />
 <br />
 <br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+</p>
+
+## Tecnologías 👨🏻‍💻
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,figma,html,css,github,vscode&perline=12" />
+  </a>
+</p>
+<br>
+
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
