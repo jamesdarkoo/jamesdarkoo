@@ -1,12 +1,8 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Jaime <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1>
 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jaime+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -51,33 +47,27 @@
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
-
 </p>
 
 
 
+## My profile overview:
 
 
-
-
-## <div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-<br />
-<br />
-<br />
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+	
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=jamesdarkoo&show_icons=true)
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdarkoo&theme=react&layout=compact" />
 </p>
 
-## Tecnologías 👨🏻‍💻
+
+## Technologies:
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,figma,html,css,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr,html,css,github,vscode,&perline=12" />
   </a>
 </p>
 <br>
